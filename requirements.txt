@@ -1,7 +1,10 @@
-OS-Windows
-IDLE (Python 3.10)
-MODULES
-1. Open CV
-2. Mediapipe
-3. Time
-4. PyAutoGui
+System Requirements
+Operating System: Windows
+Programming Language: Python 3.10
+IDE: Python IDLE or Visual Studio Code
+Hardware: i3 Processor, 4 GB RAM, 512 GB HDD
+Libraries Used
+OpenCV – For real-time image processing
+MediaPipe – For hand tracking
+Time – For gesture duration management
+PyAutoGUI – For keyboard/mouse emulation
