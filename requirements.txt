@@ -1,0 +1,7 @@
+OS-Windows
+IDLE (Python 3.10)
+MODULES
+1. Open CV
+2. Mediapipe
+3. Time
+4. PyAutoGui
